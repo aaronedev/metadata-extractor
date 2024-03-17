@@ -1,7 +1,3 @@
-# pip install -r requirements.txt
 Pillow==8.4.0
 pyexiftool
 pyexifinfo
-
-# for windows, install exiftool from https://exiftool.org/
-choco install exiftool
